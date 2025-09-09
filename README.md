@@ -1,7 +1,7 @@
 This project focuses on predicting customer churn — the likelihood that a customer will stop using a company’s product or service.
 By identifying at-risk customers in advance, businesses can take proactive measures to improve retention and reduce revenue loss.
 The project includes;
-Data Collection: Import dataset (CSV / SQL / API).
+Data Collection: Import dataset (CSV / SQL ).
 
 Exploratory Data Analysis (EDA):
 
